@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# MEC TTP 2021 Winter Assignment 11: Capstone Outline
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Purpose
 
-## Available Scripts
+To plan out a full outline of your capstone project to get everyone on your team on the same page and to allow the instructional staff to anticipate your needs and roadblocks.
 
-In the project directory, you can run:
+## Task
 
-### `npm start`
+Produce a full, detailed project outline for your capstone project. This includes:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Purpose statement
+- High level features / user stories
+- Detailed sketches
+- Pseudocode to explain the more complex parts
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Upon review, we will make adjustments to your outline to increase or decrease complexity as needed.
 
-### `npm test`
+## Requirements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Your capstone project must:
 
-### `npm run build`
+1. Be responsive
+2. Use React
+3. Use React Router
+4. Use Custom Components
+5. Use Forms and Validation
+6. Be hosted on Github with proper commit, branch, and issue workflows
+7. Call at least 1 3rd party API
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Optionally, your capstone project can:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Integrate with a node server
+2. Integrate with a database
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Submission
 
-### `npm run eject`
+Submit a single github link before 11:59pm EST on Jan 19, 2021 using the following form. Only one student on your team needs to submit and be sure to tag all the team members when submitting.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[https://airtable.com/shrdhk3TgUWZ6pFO5](https://airtable.com/shrdhk3TgUWZ6pFO5)
